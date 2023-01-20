@@ -6,6 +6,10 @@ This is a Crypto Tracker app which is made using the react.
 ## Check Live Version
 
 https://crypto-tracker-seven-delta.vercel.app/
+
+## Tech Stack
+
+**Client:** React, Chakra UI
 ## Features
 
 - Check Crypto prices in real time
@@ -14,7 +18,5 @@ https://crypto-tracker-seven-delta.vercel.app/
 - Completely responsive
 
 
-## Tech Stack
 
-**Client:** React, Chakra UI
 
