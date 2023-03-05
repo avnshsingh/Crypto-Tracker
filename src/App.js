@@ -11,7 +11,7 @@ function App() {
     <Router>
       <Header />
       <Routes basename='/Crypto-Tracker'>
-        <Route exact path='/Crypto-Tracker' element={<Home />} />
+        <Route path='/' element={<Home />} />
         <Route path='/coins' element={<Coins />} />
         <Route path='/exchanges' element={<Exchanges />} />
         <Route path='/coin/:id' element={<CoinDetails />} />
