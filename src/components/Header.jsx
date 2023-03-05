@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <HStack p={'4'} shadow={'base'} bgColor={'blackAlpha.900'}>
       <Button variant={'unstyled'} color={'white'}>
-        <Link to='/'>Home</Link>
+        <Link to='https://www.avinashs.in/Crypto-Tracker/'>Home</Link>
       </Button>
       <Button variant={'unstyled'} color={'white'}>
         <Link to='/exchanges'>Exchanges</Link>
